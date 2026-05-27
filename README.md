@@ -254,7 +254,7 @@ The API can be tested using:
 
 **Gurram Vani**
 
-B.Tech Mechanical Engineering Student
+B.Tech Computer Science and Engineering Student
 
 ---
 
